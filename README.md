@@ -6,4 +6,4 @@ I created it as a math project, and to export and create types.
 
 The place file is below.
 
-[Place File](https://github.com/sequidhunter/Roblox-Simple-Planet-Orbit-System/raw/refs/heads/main/Simple%20Planet%20Orbit.rbxl)
+[Simple Planet Orbit](https://github.com/sequidhunter/Roblox-Simple-Planet-Orbit-System/raw/refs/heads/main/Simple%20Planet%20Orbit.rbxl)
